@@ -1,0 +1,7 @@
+{
+  "toolpkg_id": "clawd_pet",
+  "version": "1.0.6",
+  "display_name": "ClawdPet 像素桌宠",
+  "emotes": 47,
+  "features": ["24维情绪联动", "自由轮播", "分页预览", "统一大小调节"]
+}
